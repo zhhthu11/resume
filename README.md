@@ -1,2 +1,2 @@
 # resume
-resume latex
+resume by Honghui Zhang
